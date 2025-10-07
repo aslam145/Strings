@@ -1,0 +1,2 @@
+# Strings
+Methods of strings
